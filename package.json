@@ -1,22 +1,21 @@
 {
-        "name": "filter-text",
-        "main": "./lib/filter-text",
-        "version": "0.0.0",
-        "description": "Filter buffer/region by command line program.",
-        "keywords": [
-                "xyzzy"
-        ],
-        "activationCommands": {
-                "atom-workspace": [
-                        "filter-text:filter-buffer",
-                        "filter-text:filter-region"
-                 ]
-        },
-        "repository": "https://github.com/sharapeco/atom-filter-text",
-        "license": "MIT",
-        "engines": {
-                "atom": ">=1.0.0 <2.0.0"
-        },
-        "dependencies": {
-        }
+  "name": "filter-text",
+  "main": "./lib/filter-text",
+  "version": "0.1.0",
+  "description": "Filter buffer/region by command line program.",
+  "keywords": [
+    "xyzzy"
+  ],
+  "activationCommands": {
+    "atom-workspace": [
+      "filter-text:filter-buffer",
+      "filter-text:filter-region"
+    ]
+  },
+  "repository": "https://github.com/sharapeco/atom-filter-text",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
 }
