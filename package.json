@@ -1,7 +1,7 @@
 {
         "name": "filter-text",
         "main": "./lib/filter-text",
-        "version": "1.0.0",
+        "version": "0.0.0",
         "description": "Filter buffer/region by command line program.",
         "keywords": [
                 "xyzzy"
