@@ -1,0 +1,22 @@
+{
+        "menu": [
+                {
+                        "label": "Packages",
+                        "submenu": [
+                                {
+                                        "label": "Filter Text",
+                                        "submenu": [
+                                                {
+                                                        "label": "Filter buffer",
+                                                        "command": "filter-text:filter-buffer"
+                                                },
+                                                {
+                                                        "label": "Filter region",
+                                                        "command": "filter-text:filter-region"
+                                                }
+                                        ]
+                                }
+                        ]
+                }
+        ]
+}
